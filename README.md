@@ -1,3 +1,3 @@
 # notebooks
 ### jupyter notebooks
-##### studies notes
+just some studies notes
