@@ -1,2 +1,3 @@
 # notebooks
-jupyter notebooks
+### jupyter notebooks
+##### studies notes
